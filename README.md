@@ -43,7 +43,9 @@ Heavy:
 
 ## Tooling
 
-## Forums / Newsv
+## Forums / News
+
+[Rholang Collaboration Laboratory](https://docs.google.com/document/d/1YnXr8zx-0Wv8mSule1GXTvs1BVayEs0wKjovC-9EMOQ/edit?usp=sharing)
 
 ## Contribute
 
