@@ -7,7 +7,7 @@ This is the Awesome List for Rholang - a new programming language developed by G
 ## Contents
 
 ### Instant communication chat channels
-* [All Rholang Chatrooms](#chatrooms)
+* [All Rholang Chatrooms](#all-rholang-chatrooms)
 ### Backround/Foundational reading
 Light:
 * [Wikipedia](#wikipedia)
