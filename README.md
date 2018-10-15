@@ -6,10 +6,11 @@ This is the Awesome List for Rholang - a new programming language developed by G
 
 ## Contents
 
+### Instant communication chat channels
+* [All Rholang Chatrooms](#chatrooms)
 ### Backround/Foundational reading
 Light:
 * [Wikipedia](#wikipedia)
-
 Heavy:
 * [Seminal scientific papers](#seminal-papers)
 ### Stricly on Rholang: 
@@ -17,20 +18,18 @@ Heavy:
 * [Articles](#articles)
 #### Awesome videos that are exceptional
 * [Online courses](#online-courses)
-### (Interactive) study material & resorces
+* [Awesome RCON recordings](#recordings)
+### (Interactive) study wmaterial & resorces
 * [Code schools](#schooling)
 * [Tooling](#tooling)
 ### Partake in the community effort !
 * [Forums / News](#forums--news)
 
+## All Rholang Chatrooms
+
 ## Wikipedia
 
-## Instant communication chat channels
-
 ## Articles
-
-## Books
-## Podcasts
 
 ## Online courses
 
