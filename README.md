@@ -23,12 +23,8 @@ Heavy:
 * [Forums / News](#forums--news)
 
 ## Wikipedia
-* [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
-* [History of Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 
 ## Instant communication chat channels
-* [Gitter Artificial General Intelligence channel](https://gitter.im/artificial-general-intelligence/Lobby)
-* [##AGI IRC channel on freenode](https://webchat.freenode.net/?channels=%23%23agi)
 
 ## Articles
 
