@@ -10,6 +10,7 @@ This is the Awesome List for Rholang - a new programming language developed by G
 ### Backround/Foundational reading
 Light:
 * [Wikipedia](#wikipedia)
+
 Heavy:
 * [Seminal scientific papers](#seminal-scientific-papers)
 ### Stricly on Rholang: 
