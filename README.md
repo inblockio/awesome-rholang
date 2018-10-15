@@ -1,4 +1,3 @@
-
 # Awesome list of resources about Rholang 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -12,7 +11,7 @@ This is the Awesome List for Rholang - a new programming language developed by G
 Light:
 * [Wikipedia](#wikipedia)
 Heavy:
-* [Seminal scientific papers](#seminal-papers)
+* [Seminal scientific papers](#seminal-scientific-papers)
 ### Stricly on Rholang: 
 * [Tutorials](#tutorials)
 * [Articles](#articles)
@@ -29,20 +28,21 @@ Heavy:
 
 ## Wikipedia
 
+## Seminal scientific papers
+
+## Tutorials
+
 ## Articles
 
 ## Online courses
 
-## Organizations / Projects
-## Forums / News
+## Recordings
 
-## Competitions
+## Schooling
 
-## Movies
+## Tooling
 
-## TV Shows
-
-## More resources
+## Forums / Newsv
 
 ## Contribute
 
