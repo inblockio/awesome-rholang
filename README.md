@@ -19,7 +19,7 @@ Heavy:
 #### Awesome videos that are exceptional
 * [Online courses](#online-courses)
 * [Awesome RCON recordings](#recordings)
-### (Interactive) study wmaterial & resorces
+### (Interactive) study material & resorces
 * [Code schools](#schooling)
 * [Tooling](#tooling)
 ### Partake in the community effort !
@@ -31,19 +31,22 @@ Heavy:
 
 ## Seminal scientific papers
 
-## Tutorials / Cheat Sheets / Snippets
+## Tutorials 
+* [Learn Rholang by JoshOhrndorff](https://www.rchain.coop/learn-rholang) - current best-of-breed tutorial
+# including Cheat Sheets / Snippets
 * [The definitive Rholang Cheat Sheet](https://github.com/JoshOrndorff/LearnRholangByExample/tree/master/cheatSheet)
+* [rchain.cloud](https://www.rchain.cloud) - run your first few Rholang programs without setting up a node environment
 
 ## Articles
 
-## Online courses
-
+## Online courses / Videos
+*[Rholang to go](https://www.youtube.com/watch?v=8jGQBeMl7YE&list=PLDj0XyKkeYndejKjDy625DALydGEeRLX_) - < 10 minute screencasts focused on getting one thing done (some theory does sneak in sometimes)
 ## Recordings
 
 ## Schooling
 
 ## Tooling
-
+run your first few Rholang programs without setting up a node environment
 ## Forums / News
 
 [Rholang Collaboration Laboratory](https://docs.google.com/document/d/1YnXr8zx-0Wv8mSule1GXTvs1BVayEs0wKjovC-9EMOQ/edit?usp=sharing)
