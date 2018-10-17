@@ -41,7 +41,7 @@ Heavy:
 ## Articles
 
 ## Online courses / Videos
-*[Rholang to go](https://www.youtube.com/watch?v=8jGQBeMl7YE&list=PLDj0XyKkeYndejKjDy625DALydGEeRLX_) - < 10 minute screencasts focused on getting one thing done (some theory does sneak in sometimes)
+* [Rholang to go](https://www.youtube.com/watch?v=8jGQBeMl7YE&list=PLDj0XyKkeYndejKjDy625DALydGEeRLX_) - < 10 minute screencasts focused on getting one thing done (some theory does sneak in sometimes)
 ## Recordings
 
 ## Schooling
