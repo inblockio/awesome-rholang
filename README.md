@@ -25,6 +25,8 @@ Heavy:
 ### Partake in the community effort !
 * [Forums / News](#forums--news)
 
+---
+
 ## All Rholang Chatrooms
 
 ## Wikipedia
@@ -33,9 +35,8 @@ Heavy:
 
 ## Tutorials 
 * [Learn Rholang by JoshOhrndorff](https://www.rchain.coop/learn-rholang) - current best-of-breed tutorial
-# including Cheat Sheets / Snippets
+### including Cheat Sheets / Snippets
 * [The definitive Rholang Cheat Sheet](https://github.com/JoshOrndorff/LearnRholangByExample/tree/master/cheatSheet)
-* [rchain.cloud](https://www.rchain.cloud) - run your first few Rholang programs without setting up a node environment
 
 ## Articles
 
@@ -46,7 +47,9 @@ Heavy:
 ## Schooling
 
 ## Tooling
-run your first few Rholang programs without setting up a node environment
+
+* [rchain.cloud](https://www.rchain.cloud) - run your first few Rholang programs without setting up a node environment
+
 ## Forums / News
 
 [Rholang Collaboration Laboratory](https://docs.google.com/document/d/1YnXr8zx-0Wv8mSule1GXTvs1BVayEs0wKjovC-9EMOQ/edit?usp=sharing)
