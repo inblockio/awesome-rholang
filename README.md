@@ -48,7 +48,9 @@ Heavy:
 
 ## Tooling
 
+* [Cryptofex](https://cryptofex.io) - standalone IDE for Rholang and other smart contracts
 * [rchain.cloud](https://www.rchain.cloud) - run your first few Rholang programs without setting up a node environment
+* [Syntax Files](https://github.com/rchain-community/rholang-syntax-highlighting) - syntax highlighting for emacs and vim
 
 ## Forums / News
 
